@@ -54,7 +54,19 @@ In dieser Case Study analysierst du den öffentlichen Google Analytics 4 (GA4) D
 
 Analysiere den Flood-It! Gaming App Datensatz und beantworte die folgenden Fragen. Dokumentiere deine SQL-Queries, Methodik und Ergebnisse in einem Markdown-File oder Notebook im `/output` Ordner.
 
+Wichtig: Du musst nicht alle Fragen beantworten, aber je mehr du bearbeitest, desto besser. Fokussiere dich auf die Bereiche, die für dich am interessantesten sind.
+
 ---
+
+## Busniness Context
+Flood-It! ist ein beliebtes Mobile Game, bei dem Spieler farbige Blöcke auf einem Raster durch Farbwechsel verbinden müssen, um das gesamte Spielfeld in möglichst wenigen Zügen zu füllen. Die App generiert Einnahmen durch In-App-Werbung und optionale In-App-Käufe für zusätzliche Funktionen oder Level.
+
+Hier kannst du es ausprobieren:
+[text](https://unixpapa.com/floodit/)
+
+Du bist ein Datenanalyst, der beauftragt wurde, das Nutzerverhalten, Engagement und Monetarisierung der App zu untersuchen, um Empfehlungen für Verbesserungen zu geben. Bitte nutze den folgenden Datensatz mit dem Ziel Hypothesen zu generieren, die der Growth Hacking Manager testen könnte. Ziel des Growth Hacking Managers ist es, möglichst viel Revenue mit den Nutzern der App zu erzielen. Am Ende der Aufgabe solltest Du die zentralen Hypthesen nennen können und diese mit Daten untermauern. (Wichtig: Es geht nicht darum, alle Fragen zu beantworten, sondern darum, eine datengetriebene Analyse durchzuführen und Hypothesen zu generieren.) 
+
+Du kannst dabei verschiedene Analysemethoden und Visualisierungen verwenden. Hier sind einige Fragen, die vielleicht helfen könnten, deine Analyse zu strukturieren:
 
 ## 1. Player Progression Analysis
 
